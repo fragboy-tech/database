@@ -1,0 +1,1 @@
+SELECT movies.title, movies.year, movies.rating FROM movies;
